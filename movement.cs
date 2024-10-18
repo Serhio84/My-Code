@@ -7,9 +7,9 @@ using UnityEngine;
 
 public class movement : MonoBehaviour
 {
-    public float moveSpeed = 10f; //ќбъ€вл€ем переменную как коэфициент движени€ вперед и назад
-    public float rotateSpeed = 7f;//ќбъ€вл€ем переменную как коэфициент движени€ влево  и вправо
-    public float jumpForce = 30f; //ќбъ€вл€ем переменную как коэфициент силы прыжка
+    public float moveSpeed = 10f; //javljaem peremennuju kak kojeficient dvizhenija vpered i nazad
+    public float rotateSpeed = 7f;//javljaem peremennuju kak kojeficient dvizhenija vlevo  i vpravo
+    public float jumpForce = 30f; //javljaem peremennuju kak kojeficient sily pryzhka
 
 
     private float vInput;
